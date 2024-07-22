@@ -1,18 +1,20 @@
-<img src="android-chrome-192x192.png" width="128px" height="128px">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+        <img src="android-chrome-192x192.png" width="128px" height="128px">
+</div>
 
 # DOOM on JS-DOS
-Play the classic "THE ULTIMATE DOOM" in your web browser today via JS-DOS.
+Juega el clasico "THE ULTIMATE DOOM" en el navegador web del Siiup via JS-DOS.
 
 ## Special Note
-Only works on Desktop/PC/Laptop/Mac environments. Does not work on mobile devices like Android, iOS, KaiOS and more.
+Unicamente funciona en Desktop/PC/Laptop/Mac environments. No trabaj en sistema como Android, iOS, KaiOS and more.
 
 ## Play Now!
-Visit https://thedoggybrad.github.io/doom_on_js-dos/ to play!
+Visita la pagina del creador original https://thedoggybrad.github.io/doom_on_js-dos/ para jugar!
 
 ## User Manual
-You might want to know on how to play the game first before playing.<br>
-Consider visiting https://github.com/thedoggybrad/doom_on_js-dos/blob/main/MANUAL.MD first before playing.
+Si quieres saber mas acerca de como jugar.<br>
+Visita https://waltervvilcam.github.io/doom_to-siiup/blob/main/MANUAL.MD primero antes de jugar.
 
 ## License
-This software uses the MIT License. Please visit the link below to view the full license terms.<br>
+Este software uses the MIT License. Porfavor visita el siguiente lick para ver lost terminos y condiciones.<br>
 https://github.com/thedoggybrad/doom_on_js-dos/blob/main/LICENSE
